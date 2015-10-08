@@ -15,7 +15,7 @@ physics.start()
 
 -- [Background]
 
-local bg = display.newImage('gameBg.png')
+local bg = display.newImage('gameBg.png') 
 
 -- [Title View]
 
